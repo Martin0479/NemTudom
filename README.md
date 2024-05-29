@@ -8,4 +8,11 @@ body {
   font-weight: "bold";
   color: "red";
   font-family: "Courier-New";
-}  
+} 
+...
+
+Teendők
+- [X] Terv készitése
+- [ ] Weblap kódolása
+- [ ] stiluslap készités
+- [ ] tesztelés
